@@ -4,7 +4,12 @@ Description :
 A modern digital product marketplace where users can browse, add to cart, and purchase premium AI tools, templates & productivity software — all in one place.
 
 Tech Used :
-. React 19 · Vite  Tailwind CSS · DaisyUI · React Toastify · React Icons
+React 19
+Vite  
+Tailwind CSS 
+DaisyUI 
+React Toastify 
+React Icons
 
 
 3 Key Features :

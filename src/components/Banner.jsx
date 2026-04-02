@@ -29,7 +29,7 @@ const Hero = () => {
             <img 
               src="/banner.png"
               alt="Hero"
-              className="rounded-2xl max-w-full"
+              className="rounded-2xl w-full"
             />
           </div>
         </div>
